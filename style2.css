@@ -1,0 +1,9 @@
+body{
+    background-image: url(temp.jpg);
+    background-repeat: no-repeat;
+  background-size: cover;
+}
+table th,td{
+    border-style: solid;
+
+}
